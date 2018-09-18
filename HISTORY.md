@@ -1,4 +1,4 @@
-# 0.5.2
+# 0.5.3
 
 * `CHANGED` support js style export
 
